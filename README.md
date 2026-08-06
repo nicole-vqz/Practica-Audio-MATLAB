@@ -1,7 +1,7 @@
 # Practica-Audio-MATLAB
 Nota el audio tiene que estar en formato `wav` para que funcione.
 
-Los comentarios que se encuentran marcados en verdes son los comandos para que se escriban en el Command Windows o solo se quita el símbolo `“%”`, dando click `Run` y se ejecuta. Esto sirve para escuchar el audio.
+Los comentarios que se encuentran marcados en verdes son los comandos para que se escriban en el Command Windows o solo se quita el símbolo `%`, dando click `Run` y se ejecuta. Esto sirve para escuchar el audio.
 
 ```bash
 %sound(Xin, Fs)
